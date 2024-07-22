@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @fasnfilho
+- 👀 I’m interested in Web Development, mainly Front-End development
+- 🌱 I’m currently learning Back-End development 
+- 💞️ I’m looking to collaborate on new personal projects and on an internship in this area
+- 📫 How to reach me: fabinhosnf@gmail.com 
+- 😄 Pronouns: he/him
