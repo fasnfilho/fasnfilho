@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fasnfilho
-- 👀 I’m interested in Web Development and data analysis, mainly data area
-- 🌱 I’m currently learning Back-End development 
+- 👀 I’m interested in Web Development and data analysis
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on new personal projects and on an internship in those areas
 - 📫 How to reach me: fabinhosnf@gmail.com 
