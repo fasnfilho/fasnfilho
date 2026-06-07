@@ -34,5 +34,5 @@ Desenvolvimento:
 
 ## Contato
 
-LinkedIn: linkedin.com/in/fabioagostinho
-E-mail: [fabinhosnf@gmail.com](mailto:fabinhosnf@gmail.com)
+* LinkedIn: linkedin.com/in/fabioagostinho
+* E-mail: [fabinhosnf@gmail.com](mailto:fabinhosnf@gmail.com)
