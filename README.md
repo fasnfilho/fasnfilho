@@ -1,5 +1,38 @@
-- 👋 Hi, I’m @fasnfilho
-- 👀 I’m interested in Web Development and data analysis
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on new personal projects and on an internship in those areas
-- 📫 How to reach me: fabinhosnf@gmail.com 
+# Olá, eu sou Fábio Agostinho 👋
+
+Estudante de Engenharia de Computação na UFC.
+
+Atualmente atuo com:
+
+* Quality Assurance (QA)
+* Testes Automatizados
+* Python
+* SQL
+* Análise de Dados
+
+## Tecnologias
+
+QA:
+
+* Cypress
+* Appium
+* Jira
+* TestLink
+
+Dados:
+
+* Python
+* Pandas
+* SQL
+* Excel
+
+Desenvolvimento:
+
+* React
+* JavaScript
+* Tailwind CSS
+
+## Contato
+
+LinkedIn: linkedin.com/in/fabioagostinho
+E-mail: [fabinhosnf@gmail.com](mailto:fabinhosnf@gmail.com)
